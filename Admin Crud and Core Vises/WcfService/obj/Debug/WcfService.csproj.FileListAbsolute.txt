@@ -1,0 +1,24 @@
+C:\Users\Claret\documents\visual studio 2015\Projects\Proyecto3_Lenguajes\WcfService\bin\WcfService.dll.config
+C:\Users\Claret\documents\visual studio 2015\Projects\Proyecto3_Lenguajes\WcfService\bin\WcfService.dll
+C:\Users\Claret\documents\visual studio 2015\Projects\Proyecto3_Lenguajes\WcfService\bin\WcfService.pdb
+C:\Users\Claret\documents\visual studio 2015\Projects\Proyecto3_Lenguajes\WcfService\bin\Proyecto3_LenguajesData.exe
+C:\Users\Claret\documents\visual studio 2015\Projects\Proyecto3_Lenguajes\WcfService\bin\Proyecto3_LenguajesData.pdb
+C:\Users\Claret\documents\visual studio 2015\Projects\Proyecto3_Lenguajes\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+C:\Users\Claret\documents\visual studio 2015\Projects\Proyecto3_Lenguajes\WcfService\obj\Debug\WcfService.dll
+C:\Users\Claret\documents\visual studio 2015\Projects\Proyecto3_Lenguajes\WcfService\obj\Debug\WcfService.pdb
+C:\Users\Claret\Desktop\proyectoMerge\Proyecto3_Lenguajes\WcfService\bin\WcfService.dll.config
+C:\Users\Claret\Desktop\proyectoMerge\Proyecto3_Lenguajes\WcfService\bin\WcfService.dll
+C:\Users\Claret\Desktop\proyectoMerge\Proyecto3_Lenguajes\WcfService\bin\WcfService.pdb
+C:\Users\Claret\Desktop\proyectoMerge\Proyecto3_Lenguajes\WcfService\bin\Proyecto3_LenguajesData.exe
+C:\Users\Claret\Desktop\proyectoMerge\Proyecto3_Lenguajes\WcfService\bin\Proyecto3_LenguajesData.pdb
+C:\Users\Claret\Desktop\proyectoMerge\Proyecto3_Lenguajes\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+C:\Users\Claret\Desktop\proyectoMerge\Proyecto3_Lenguajes\WcfService\obj\Debug\WcfService.dll
+C:\Users\Claret\Desktop\proyectoMerge\Proyecto3_Lenguajes\WcfService\obj\Debug\WcfService.pdb
+C:\Users\admin\Desktop\Proyecto3_Lenguajes\WcfService\bin\WcfService.dll.config
+C:\Users\admin\Desktop\Proyecto3_Lenguajes\WcfService\bin\WcfService.dll
+C:\Users\admin\Desktop\Proyecto3_Lenguajes\WcfService\bin\WcfService.pdb
+C:\Users\admin\Desktop\Proyecto3_Lenguajes\WcfService\bin\Proyecto3_LenguajesData.exe
+C:\Users\admin\Desktop\Proyecto3_Lenguajes\WcfService\bin\Proyecto3_LenguajesData.pdb
+C:\Users\admin\Desktop\Proyecto3_Lenguajes\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Proyecto3_Lenguajes\WcfService\obj\Debug\WcfService.dll
+C:\Users\admin\Desktop\Proyecto3_Lenguajes\WcfService\obj\Debug\WcfService.pdb

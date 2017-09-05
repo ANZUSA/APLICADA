@@ -1,0 +1,8 @@
+C:\Users\Claret\Documents\Visual Studio 2015\Projects\Proyecto3_Lenguajes\WcfService\bin\WcfService.dll.config
+C:\Users\Claret\Documents\Visual Studio 2015\Projects\Proyecto3_Lenguajes\WcfService\bin\WcfService.dll
+C:\Users\Claret\Documents\Visual Studio 2015\Projects\Proyecto3_Lenguajes\WcfService\bin\WcfService.pdb
+C:\Users\Claret\Documents\Visual Studio 2015\Projects\Proyecto3_Lenguajes\WcfService\obj\Release\WcfService.csprojResolveAssemblyReference.cache
+C:\Users\Claret\Documents\Visual Studio 2015\Projects\Proyecto3_Lenguajes\WcfService\obj\Release\WcfService.dll
+C:\Users\Claret\Documents\Visual Studio 2015\Projects\Proyecto3_Lenguajes\WcfService\obj\Release\WcfService.pdb
+C:\Users\Claret\documents\visual studio 2015\Projects\Proyecto3_Lenguajes\WcfService\bin\Proyecto3_LenguajesData.exe
+C:\Users\Claret\documents\visual studio 2015\Projects\Proyecto3_Lenguajes\WcfService\bin\Proyecto3_LenguajesData.pdb
