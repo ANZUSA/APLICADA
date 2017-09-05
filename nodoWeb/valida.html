@@ -1,0 +1,20 @@
+
+<?php
+require_once('sc/nusoap/lib/nusoap.php');
+
+$url ='http://192.168.43.28/DB.asmx?WSDL';
+$client = new nusoap_client($url,true);
+
+
+			$param = array('userName' => $usuario);
+		
+			$validar =$client->call("existUser", $param);
+			var_dump($validar);      
+
+			
+
+ 	  
+ 	
+
+
+  ?>
